@@ -18,8 +18,4 @@ Its better than 1.5 :) have a good day
 
 
 
-
-This
-Is Only Supported On
-Fabric
-1.16.5
+Supported 1.18.1/1.18.2 :)
